@@ -8,3 +8,4 @@
 /captures
 .externalNativeBuild
 kits/build
+.idea/
