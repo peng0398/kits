@@ -5,6 +5,9 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.bob.kits.utils.CommonUtils;
 
+/**
+ * @author baobo.peng
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
