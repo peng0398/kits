@@ -1,1 +1,1 @@
-include ':kits'
+include ':kits', ':example'
